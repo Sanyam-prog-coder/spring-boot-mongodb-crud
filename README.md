@@ -29,7 +29,3 @@ The application demonstrates modern backend development practices with NoSQL dat
 - **MongoDB (NoSQL)**  
 - **Maven**
 
----
-
-## 📁 Project Structure
-
